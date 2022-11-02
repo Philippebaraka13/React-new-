@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+  margin: 100px;
+
+}
+div {
+float: center;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(35, 147, 110);
+}
