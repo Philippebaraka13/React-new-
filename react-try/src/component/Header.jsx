@@ -1,9 +1,9 @@
 import { useState } from 'react';
-import './App.css';
 
 
 
-function App() {
+
+function Header() {
 
   const [todo, setTodo] = useState("");
   const [items, setItems] = useState([]);
@@ -53,4 +53,4 @@ function App() {
   )
 }
 
-export default App;
+export default Header;
